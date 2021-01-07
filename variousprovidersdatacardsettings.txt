@@ -1,0 +1,23 @@
+Reliance
+*99#
+rcomnet
+
+Tata Docomo 2G
+*99#
+tata.docomo.internet
+
+
+Aircel 2g & 3G (North India - All)
+*99#
+aircelgprs
+
+
+Idea 2G & 3G
+*99#
+internet
+
+
+Airtel 2G & 3G
+*99#
+airtelgprs.com
+
